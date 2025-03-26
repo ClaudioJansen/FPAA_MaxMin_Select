@@ -100,7 +100,7 @@ T(n) = O(n)
 
 Ou seja, o algoritmo **MaxMin Select** possui uma complexidade linear **Θ(n)**, o que é uma grande melhoria em relação a uma abordagem ingênua que exigiria \(O(n)\) comparações para encontrar o mínimo e o máximo separadamente.
 
-## Diagrama Visual
+### Diagrama Visual
 
 O diagrama abaixo ilustra como o algoritmo **MaxMin Select** divide e combina os subproblemas recursivos, incluindo os níveis da árvore em cada nível.
 
